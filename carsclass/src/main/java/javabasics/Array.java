@@ -9,7 +9,7 @@ public class Array {
 		
 		anArray= new int[10];
 		
-		anArray[0]=100;
+		anArray[0]=1000000;
 		anArray[1]=200;
 		anArray[2]=300;
 		anArray[3]=400;
